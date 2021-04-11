@@ -1,0 +1,10 @@
+PHP version 7.3
+
+1. Create database with name: cinema
+2. Restore backup in the Scripts folder
+3. Change database login credentials in login.php
+4. Run on your IDE or AMPPS server and enjoy
+
+This is my first project and I must admit that it was really challenging.
+Up until a few days ago I had no Idea how to manipulate data from a database.
+I hope you enjoy the results as much as I enjoyed developing this.
